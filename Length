@@ -2,6 +2,6 @@
   
 public class main {
 public static void main (string[] args){
-string s = "thisistheoneofthebigggggggeststringyouwilleverknowandiamshruti";
+string s = "thisistheoneofthebigggggggeststringyouwilleverknowandiamsvi";
 system.out.println(s.length());
 }
