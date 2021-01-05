@@ -5,7 +5,7 @@
   
 public class main {
 public static void main (string[] args){
-string s = "thisisthehugeshrutistring";
+string s = "thisisthehugevikashstring";
 system.out.println(s.endwith"huge"));
 system.out.println(s.endwith("ring"));
 system.out.println(s.endwith("g"));
@@ -14,9 +14,9 @@ system.out.println(s.endwith("g"));
 public class main {
 public static void main (string[] args){
 string s ="ishu";
+system.out.println(s.contains("vi"));
+system.out.println(s.contains("ka"));
 system.out.println(s.contains("sh"));
-system.out.println(s.contains("ru"));
-system.out.println(s.contains("ti"));
 }
 }
 © 2021 GitHub, Inc.
