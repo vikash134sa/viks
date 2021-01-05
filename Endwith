@@ -4,7 +4,7 @@
   
 public class main {
 public static void main (string[] args){
-string s = "thisisthehugeshrutistring";
+string s = "thisisthehugevikahstring";
 system.out.println(s.endwith"huge"));
 system.out.println(s.endwith("ring"));
 system.out.println(s.endwith("g"));
