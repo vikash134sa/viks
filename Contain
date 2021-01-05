@@ -13,7 +13,7 @@ system.out.println(s.endwith("g"));
 }
 public class main {
 public static void main (string[] args){
-string s ="ishu";
+string s ="vikash";
 system.out.println(s.contains("vi"));
 system.out.println(s.contains("ka"));
 system.out.println(s.contains("sh"));
